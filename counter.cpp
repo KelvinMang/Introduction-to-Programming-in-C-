@@ -5,6 +5,7 @@ a program that asks the user to enter a number of quarters, dimes, nickels and p
 then outputs the monetary value of the coins in the format of dollars and 
 remaining cents.
 */
+
 int main(){
     int q , d, n , p ;
     std::cout << "Please enter the number of coins:" << std::endl ;
