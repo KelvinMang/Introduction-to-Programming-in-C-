@@ -50,7 +50,7 @@ Please enter weight in kilograms: 50 <br />
 Please enter height in meters: 1.58 <br />
 BMI is: 20.03
 
-## gradeclass.cpp
+## 4.gradeclass.cpp
 Write a program that inputs two grades separated by a space.  
 
 If both grades are below a score of sixty then the program should output the message:
