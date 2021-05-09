@@ -23,7 +23,7 @@ Write a program that asks the user to enter an amount of money in the format of 
 Hint: In order to find the minimum number of coins, first find the maximum number of quarters that fit in the given amount of money, then find the maximum number of dimes that fit in the remaining amount, and so on.
 
 For example, an execution should look like  this:
-Please enter the amount of money to convert:
+Please enter the amount of money to convert:<br />
 no. of dollars: 2 <br />
 no. of cents: 37  <br />
 The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
