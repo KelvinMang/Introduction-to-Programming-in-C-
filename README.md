@@ -10,10 +10,10 @@ Your program should interact with the user exactly as it shows in the following 
 
 
 Please enter the number of coins:
-no. of quarters: 20
-no. of dimes: 4
-no. of nickels: 13
-no. of pennies: 17
+no. of quarters: 20 <br />
+no. of dimes: 4 <br />
+no. of nickels: 13  <br />
+no. of pennies: 17  <br />
 The total is 6 dollars and 22 cents
 
 ## 2.coins.cpp 
@@ -25,6 +25,6 @@ Hint: In order to find the minimum number of coins, first find the maximum numbe
 For example, an execution should look like  this:
 Please enter the amount of money to convert:
 
-no. of dollars: 2
-no. of cents: 37
+no. of dollars: 2 <br />
+no. of cents: 37  <br />
 The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
