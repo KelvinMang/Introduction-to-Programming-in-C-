@@ -28,7 +28,7 @@ no. of dollars: 2 <br />
 no. of cents: 37  <br />
 The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
 
-##bmimetric.cpp
+## 3.bmimetric.cpp
 
 Body mass index (BMI) is a number calculated from  a person’s weight and height.
 According to the Centers for Disease Control and Prevention, the BMI is a fairly
