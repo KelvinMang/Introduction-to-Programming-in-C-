@@ -45,7 +45,7 @@ Where weight is in kilograms and height is in meters.
 Write a program that prompts for metric weight and height and outputs the BMI with two decimal places.
 
 
-For example,  an  execution could look  like  this:
+For example,  an  execution could look  like  this: <br />
 Please enter weight in kilograms: 50 <br />
 Please enter height in meters: 1.58 <br />
 BMI is: 20.03
