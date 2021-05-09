@@ -24,7 +24,6 @@ Hint: In order to find the minimum number of coins, first find the maximum numbe
 
 For example, an execution should look like  this:
 Please enter the amount of money to convert:
-
 no. of dollars: 2 <br />
 no. of cents: 37  <br />
 The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
