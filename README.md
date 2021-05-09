@@ -1,7 +1,7 @@
 # Introduction-to-Programming-in-C-
 Course: NYUx CPP.PRG.1
 
-Counter.cpp : 
+## 1.Counter.cpp : 
 
 Write a program that asks the user to enter a number of quarters, dimes, nickels and pennies and then outputs the monetary value of the coins in the format of dollars and remaining cents.
 
@@ -16,7 +16,7 @@ no. of nickels: 13
 no. of pennies: 17
 The total is 6 dollars and 22 cents
 
-coins.cpp 
+## 2.coins.cpp 
 
 Write a program that asks the user to enter an amount of money in the format of dollars and remaining cents. The program should calculate and print the minimum number of coins (quarters, dimes, nickels and pennies) that    are equivalent to the given amount.
 
