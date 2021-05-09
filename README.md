@@ -65,3 +65,12 @@ Otherwise the program should output the message:
 
 Student Graduated!
 
+For example, an execution could look like this:
+
+
+Please enter 2 grades, separated by a space: 59 95
+
+Student Graduated!
+
+
+
