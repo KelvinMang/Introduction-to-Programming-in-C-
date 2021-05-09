@@ -10,8 +10,8 @@ Your program should interact with the user exactly as it shows in the following 
 
 
 Please enter the number of coins:
-# of quarters: 20
-# of dimes: 4
-# of nickels: 13
-# of pennies: 17
+no. of quarters: 20
+no. of dimes: 4
+no. of nickels: 13
+no. of pennies: 17
 The total is 6 dollars and 22 cents
