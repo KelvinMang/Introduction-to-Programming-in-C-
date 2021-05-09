@@ -27,3 +27,26 @@ Please enter the amount of money to convert:<br />
 no. of dollars: 2 <br />
 no. of cents: 37  <br />
 The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
+
+##bmimetric.cpp
+
+Body mass index (BMI) is a number calculated from  a person’s weight and height.
+According to the Centers for Disease Control and Prevention, the BMI is a fairly
+reliable indicator of body fatness for most people. BMI does not measure body fat
+directly, but research has shown that  BMI correlates to direct  measures  of  body  fat,  
+such  as  underwater  weighing  and dual-energy X-ray absorptiometry. The formula 
+for BMI is
+
+    Weight/Heightˆ2
+
+Where weight is in kilograms and height is in meters.
+
+
+Write a program that prompts for metric weight and height and outputs the BMI with two decimal places.
+
+
+For example,  an  execution could look  like  this:
+Please enter weight in kilograms: 50 <br />
+Please enter height in meters: 1.58 <br />
+BMI is: 20.03
+
