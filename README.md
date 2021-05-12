@@ -50,3 +50,27 @@ Please enter weight in kilograms: 50 <br />
 Please enter height in meters: 1.58 <br />
 BMI is: 20.03
 
+## 4.gradeclass.cpp
+Write a program that inputs two grades separated by a space.  
+
+If both grades are below a score of sixty then the program should output the message:
+
+Student Failed:(
+
+If both grades are greater than or equal to ninety five then the program should output the message:
+
+Student Graduated with Honors:)
+
+Otherwise the program should output the message:
+
+Student Graduated!
+
+For example, an execution could look like this:
+
+
+Please enter 2 grades, separated by a space: 59 95
+
+Student Graduated!
+
+
+
